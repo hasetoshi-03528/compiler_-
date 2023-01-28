@@ -8,7 +8,7 @@ int main() {
 	cout << endl;
 	//类C编译器设计与实现
 	cout << "                  　Class C compiler design and implementation" << endl;
-	cout << "                                  1956209   趙 敏行" << endl;
+	cout <<endl;
 	cout << endl;
 	//默认使用 ./test_files/grammar.txt 文件中的语法进行语法分析
 	cout << "The default is to use ./test_files/grammar.txt file for syntax analysis" << endl;
